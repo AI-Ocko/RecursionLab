@@ -15,6 +15,7 @@ int main () {
     getline(cin, userInput); 
 
     //output
+    writeBackward(userInput);
 
     return 0;
 }
