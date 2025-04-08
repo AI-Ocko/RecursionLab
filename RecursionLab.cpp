@@ -8,6 +8,7 @@ void writeBackward(string userInputPar);
 int main () {
 
     //declarations
+    string userInput = " ";
 
     //get user input
 
