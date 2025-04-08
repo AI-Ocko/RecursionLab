@@ -11,8 +11,8 @@ int main () {
     string userInput = " ";
 
     //get user input
-
-    //calculations
+    cout << "Enter a text message: ";
+    getline(cin, userInput); 
 
     //output
 
